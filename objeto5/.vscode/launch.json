@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "app.Main",
+      "projectName": "orientacao"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - TestaBiblioteca",
+      "request": "launch",
+      "mainClass": "app.TestaBiblioteca",
+      "projectName": "orientacao"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - InvoiceTest",
+      "request": "launch",
+      "mainClass": "app.InvoiceTest",
+      "projectName": "orientacao"
+    }
+  ]
+}
